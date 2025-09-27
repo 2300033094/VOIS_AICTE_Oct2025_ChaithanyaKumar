@@ -2,18 +2,17 @@ VOIS AICTE Project – October 2025
 📌 Overview
 
 This project was developed as part of the VOIS–AICTE Internship Program (Oct 2025).
-It focuses on analyzing Airbnb open data to uncover insights, trends, and patterns using data analytics and machine learning techniques.
+It leverages Artificial Intelligence (AI) and Data Analytics to analyze the Airbnb Open Data for insights, trends, and predictive modeling.
 
 The project includes:
 
 Exploratory Data Analysis (EDA) on Airbnb dataset
 
+AI-driven predictions for pricing and demand
+
 Data preprocessing & visualization
 
-Predictive insights for pricing and demand
-
-Notebook implementation in Python
-
+End-to-end implementation in Python (Jupyter Notebook)
 📂 Repository Structure
 VOIS_AICTE_Oct2025_ChaithanyaKumar/
 
